@@ -6,3 +6,6 @@ to entre into an container
 --> kubectl exec -it dp-84545bfdd4-4p6hg -c cont1 -- bash
 
 create few files and then exit from this container and go to other container and then check the files being replicated there or not
+
+
+https://mustafa-k8s.hashnode.dev/the-ultimate-guide-to-kubernetes-volumes-types-use-cases-and-best-practices
